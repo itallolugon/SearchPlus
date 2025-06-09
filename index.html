@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEARCH+ | Busca Inteligente</title>
+    <link href="https://fonts.googleapis.com/css2?family=Anton:wght@400&family=Montserrat:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo" style="display: flex; align-items: center; justify-content: center;">
+    <span class="search-title-main">SEARCH</span>
+    <span class="search-plus">+</span>
+</div>
+            <div class="desc">
+                Busca inteligente, resultados instantâneos.<br>
+                Encontre arquivos e imagens <b>usando descrições e detalhes do que lembra</b> — powered by IA.
+            </div>
+        </header>
+
+        <!-- Problema/Solução -->
+        <section class="problema-section">
+            <div class="problema-col">
+                <div class="problema-title">Problema</div>
+                <div class="problema-text">
+                    Muitos usuários enfrentam <span class="destaque">dificuldade para encontrar arquivos</span> no computador ou na nuvem, principalmente quando não lembram o nome exato.<br>
+                    As ferramentas tradicionais focam apenas em nomes, datas ou locais, e ignoram o conteúdo real e o contexto da lembrança do usuário.
+                </div>
+            </div>
+            <div class="problema-col">
+                <div class="problema-title">Solução: Search+</div>
+                <div class="problema-text">
+                    Um app com IA que acessa seus arquivos e <span class="destaque">encontra fotos ou documentos usando frases e elementos visuais</span>.<br>
+                    Basta descrever: a IA entende e encontra, mesmo se você só lembrar da cor, evento, ou algo que aparece na imagem!
+                </div>
+            </div>
+        </section>
+
+        <!-- Simulação/Protótipo Interativo -->
+        <section class="simulacao-section">
+            <div class="simulacao-title">
+                <span id="icon-search-demo"></span> Simule uma busca inteligente
+            </div>
+            <div class="search-box-demo">
+                <span class="demo-icon" id="icon-search"></span>
+                <input id="simu-input" type="text" placeholder="Ex: foto com camiseta vermelha" autocomplete="off">
+            </div>
+            <div class="search-results-demo" id="simu-results">
+                <!-- Resultados aparecem aqui -->
+            </div>
+        </section>
+
+        <!-- Vantagens -->
+        <section class="vantagens-section">
+            <div class="vantagens-title">Vantagens</div>
+            <div class="vantagens-list">
+                <div class="vantagem-item overlay-hover">Busca fácil, sem precisar lembrar nome ou data</div>
+                <div class="vantagem-item overlay-hover">Funciona para imagens, PDFs, Word, prints e mais</div>
+                <div class="vantagem-item overlay-hover">Integração com nuvem e dispositivos locais</div>
+                <div class="vantagem-item overlay-hover">Interface leve, rápida e intuitiva</div>
+            </div>
+        </section>
+
+        <!-- Diferenciais -->
+        <section class="diferenciais-section">
+            <div class="diferenciais-title">Diferenciais</div>
+            <div class="diferenciais-list">
+                <div class="diferencial-item overlay-hover">
+                    <span class="diferencial-title">Busca por conteúdo</span>
+                    Encontre arquivos por elementos e contexto, não só pelo nome.
+                </div>
+                <div class="diferencial-item overlay-hover">
+                    <span class="diferencial-title">Linguagem natural</span>
+                    Você descreve com palavras, a IA entende!
+                </div>
+                <div class="diferencial-item overlay-hover">
+                    <span class="diferencial-title">Rápido e seguro</span>
+                    Resultados instantâneos mantendo sua privacidade.
+                </div>
+            </div>
+        </section>
+
+        <!-- Nichos -->
+        <section class="nichos-section">
+            <div class="nichos-title">Quem pode usar?</div>
+            <div class="nichos-list">
+                <div class="nicho-item">Profissionais de Segurança</div>
+                <div class="nicho-item">Mídia e Marketing</div>
+            </div>
+        </section>
+
+        <!-- Chamada para ação -->
+        <section class="cta-section">
+            <div class="cta-title">Pronto para transformar sua experiência com arquivos?</div>
+            <button class="cta-btn">Quero saber mais!</button>
+        </section>
+
+        <!-- Comparativo -->
+        <section class="comparativo-section">
+            <div class="comparativo-title">Search+ vs Busca Tradicional</div>
+            <table class="comparativo-table">
+                <tr>
+                    <th></th>
+                    <th>Search+</th>
+                    <th>Busca Tradicional</th>
+                </tr>
+                <tr>
+                    <td>Busca por conteúdo/contexto</td>
+                    <td>✔️</td>
+                    <td>❌</td>
+                </tr>
+                <tr>
+                    <td>Busca por linguagem natural</td>
+                    <td>✔️</td>
+                    <td>❌</td>
+                </tr>
+                <tr>
+                    <td>Funciona para imagens e documentos</td>
+                    <td>✔️</td>
+                    <td>Parcial</td>
+                </tr>
+                <tr>
+                    <td>Velocidade e precisão</td>
+                    <td>Alta</td>
+                    <td>Baixa</td>
+                </tr>
+                <tr>
+                    <td>Integração com nuvem</td>
+                    <td>✔️</td>
+                    <td>Parcial</td>
+                </tr>
+                <tr>
+                    <td>Interface intuitiva</td>
+                    <td>✔️</td>
+                    <td>❌</td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- FAQ -->
+        <section class="faq-section">
+            <div class="faq-title">Possíveis Dúvidas</div>
+            <div class="faq-list">
+                <div class="faq-item">
+                    <div class="faq-q">Funciona com que tipos de arquivo?</div>
+                    <div class="faq-a">Imagens, PDFs, documentos Word, prints e arquivos escaneados.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q">Meus arquivos ficam seguros?</div>
+                    <div class="faq-a">Sim! O Search+ pode rodar localmente e só acessa nuvem se você autorizar.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q">Precisa de internet?</div>
+                    <div class="faq-a">Não para buscas locais. Só para integração na nuvem, se desejar.</div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-q">Posso descrever por voz?</div>
+                    <div class="faq-a">Sim! O Search+ terá busca por texto ou comando de voz.</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Equipe no fim da página -->
+        <section class="equipe-section">
+            <div class="equipe-title">Equipe</div>
+            <div class="equipe-list">
+                <span class="equipe-member"><span id="icon-user1"></span> Itallo Lugon</span>
+                <span class="equipe-member"><span id="icon-user2"></span> João Miguel</span>
+                <span class="equipe-member"><span id="icon-user3"></span> Lorenzo Osorio</span>
+            </div>
+        </section>
+
+        <footer>
+            Projeto escolar &middot; Search+ &middot; 2025
+        </footer>
+    </div>
+    <!-- Ícones Lucide + Simulação -->
+    <script>
+        lucide.createIcons({
+            icons: {
+                "icon-search": "search",
+                "icon-search-demo": "search",
+                "icon-user1": "user-circle",
+                "icon-user2": "user-circle",
+                "icon-user3": "user-circle"
+            }
+        });
+
+        // Simulação de busca (interativo visual/fake)
+        const exemplos = [
+            {
+                query: "camiseta vermelha",
+                imgs: [
+                    { emoji: "👕", caption: "Você na festa" },
+                    { emoji: "📸", caption: "Selfie no parque" }
+                ]
+            },
+            {
+                query: "praia",
+                imgs: [
+                    { emoji: "🏖️", caption: "Viagem 2023" },
+                    { emoji: "🌊", caption: "Surfando" }
+                ]
+            },
+            {
+                query: "cachorro",
+                imgs: [
+                    { emoji: "🐶", caption: "Com o Totó" },
+                    { emoji: "🐕", caption: "Passeio no parque" }
+                ]
+            },
+            {
+                query: "contrato escaneado",
+                imgs: [
+                    { emoji: "📄", caption: "Contrato.pdf" },
+                    { emoji: "🖨️", caption: "Scan_2023" }
+                ]
+            },
+            {
+                query: "aniversário",
+                imgs: [
+                    { emoji: "🎂", caption: "Seu aniversário" },
+                    { emoji: "🎉", caption: "Família reunida" }
+                ]
+            }
+        ];
+        const defaultImgs = [
+            { emoji: "📷", caption: "Galeria" },
+            { emoji: "👨‍👩‍👧‍👦", caption: "Família" },
+            { emoji: "🏖️", caption: "Viagem" },
+            { emoji: "🐶", caption: "Pets" }
+        ];
+
+        const input = document.getElementById('simu-input');
+        const resultsDiv = document.getElementById('simu-results');
+
+        function renderResults(query) {
+            let results = [];
+            if (!query) {
+                results = defaultImgs;
+            } else {
+                for (const ex of exemplos) {
+                    if (query.toLowerCase().includes(ex.query)) {
+                        results = ex.imgs;
+                        break;
+                    }
+                }
+                if (results.length === 0) {
+                    results = [{ emoji: "🤔", caption: "Nenhum resultado encontrado..." }];
+                }
+            }
+            resultsDiv.innerHTML = results.map(r => `
+                <div>
+                    <div class="result-thumb">${r.emoji}</div>
+                    <div class="result-caption">${r.caption}</div>
+                </div>
+            `).join('');
+        }
+        renderResults();
+
+        input.addEventListener('input', (e) => {
+            renderResults(e.target.value.trim());
+        });
+    </script>
+</body>
+</html>
