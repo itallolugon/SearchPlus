@@ -1,33 +1,71 @@
-# Search+
+# Search+ 🔎✨
 
-Busca inteligente de arquivos e imagens usando IA ✨
-
-**Search+** é uma ferramenta inovadora que permite buscar arquivos e fotos mesmo quando você não lembra o nome, só por características, datas ou qualquer lembrança!
-
-## 🚀 Funcionalidades
-- Busque arquivos usando frases do tipo: "foto com camiseta vermelha", "documento escaneado", "aniversário", etc.
-- Encontre fotos, PDFs, prints, Word e outros formatos.
-- Integração com nuvem e busca local.
-- Interface intuitiva, leve e responsiva.
-
-## 🧠 Como funciona?
-Descreva o que você lembra: cor, evento, contexto.  
-A IA entende sua frase e encontra o arquivo certo — mesmo que você não lembre o nome ou data!
-
-## 👥 Quem fez?
-- Itallo Lugon
-- João Miguel
-- Lorenzo Osorio
-
-## 💡 Exemplos de busca
-- “foto na praia”
-- “contrato escaneado”
-- “print do seguro”
-- “aniversário 2022”
-
-## 🔗 Acesse a demonstração online
-[Veja a landing page Search+](https://dorime0102.github.io/searchplus/)
+**Busca inteligente para arquivos e imagens. Encontre o que você lembra, não só o que você nomeou!**
 
 ---
 
-> Projeto escolar apresentado em 2025.
+## 🚀 Sobre o projeto
+
+**Search+** é uma solução inovadora desenvolvida como projeto escolar, que utiliza Inteligência Artificial para facilitar a busca de arquivos, fotos, documentos e imagens na sua galeria – mesmo quando você não lembra o nome exato do arquivo!
+
+Com o Search+, basta descrever o que você lembra: uma cor, um evento, uma característica (“foto com camiseta vermelha”, “contrato escaneado”, “aniversário”, etc). O sistema entende e encontra o arquivo certo para você!
+
+---
+
+## ✨ Principais Vantagens
+
+- **Busca por características** (ex: “foto com cachorro”, “viagem 2023”, “print do seguro”)
+- **Funciona com vários formatos**: fotos, PDFs, Word, imagens escaneadas, prints, etc.
+- **Busca por linguagem natural** – descreva do seu jeito, sem regras.
+- **Resultados instantâneos** e precisos.
+- **Integração com nuvem** (opcional) e busca local.
+- **Interface intuitiva, responsiva e moderna.**
+
+---
+
+## 💡 Exemplos de busca
+
+- “foto com camiseta vermelha”
+- “contrato escaneado”
+- “aniversário 2022”
+- “foto do cachorro na praia”
+- “print do boleto do mês passado”
+
+---
+
+## 👨‍💻 Como funciona?
+
+O usuário digita (ou fala!) uma frase que descreva o que lembra sobre o arquivo ou imagem.  
+A Inteligência Artificial entende a descrição, analisa o conteúdo dos arquivos (imagem e texto) e traz o resultado certo – mesmo que você só lembre de detalhes, objetos, contexto ou cor.
+
+---
+
+## 🎯 Público-alvo
+
+- Profissionais de Segurança
+- Mídia e Marketing
+
+---
+
+## 👥 Equipe
+
+- **Itallo Lugon**
+- **João Miguel**
+- **Lorenzo Osorio**
+
+---
+
+## 🌐 Demonstração
+
+Acesse a landing page do projeto:  
+👉 [dorime0102.github.io/searchplus/](https://dorime0102.github.io/searchplus/)
+
+---
+
+## 📝 Sobre
+
+Projeto escolar • 2025  
+Todos os direitos reservados aos autores.
+
+---
+
