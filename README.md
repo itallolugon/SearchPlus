@@ -2,7 +2,7 @@
 
 Busca inteligente de arquivos e imagens usando IA ✨
 
-**Search+** é uma ferramenta escolar inovadora que permite buscar arquivos e fotos mesmo quando você não lembra o nome, só por características, datas ou qualquer lembrança!
+**Search+** é uma ferramenta inovadora que permite buscar arquivos e fotos mesmo quando você não lembra o nome, só por características, datas ou qualquer lembrança!
 
 ## 🚀 Funcionalidades
 - Busque arquivos usando frases do tipo: "foto com camiseta vermelha", "documento escaneado", "aniversário", etc.
