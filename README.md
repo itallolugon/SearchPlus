@@ -55,13 +55,6 @@ A Inteligência Artificial entende a descrição, analisa o conteúdo dos arquiv
 
 ---
 
-## 🌐 Demonstração
-
-Acesse a landing page do projeto:  
-👉 [dorime0102.github.io/searchplus/](https://dorime0102.github.io/searchplus/)
-
----
-
 ## 📝 Sobre
 
 Projeto escolar • 2025  
