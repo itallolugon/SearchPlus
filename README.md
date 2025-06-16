@@ -55,6 +55,12 @@ A Inteligência Artificial entende a descrição, analisa o conteúdo dos arquiv
 
 ---
 
+## 🚀 Acesse a Landing Page
+
+Clique no link abaixo para visualizar o site hospedado pelo GitHub Pages:
+
+👉 [Visite a Landing Page](https://dorime0102.github.io/SearchPlus/)
+
 ## 📝 Sobre
 
 Projeto escolar • 2025  
