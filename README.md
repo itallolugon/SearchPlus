@@ -59,7 +59,7 @@ A Inteligência Artificial entende a descrição, analisa o conteúdo dos arquiv
 
 Clique no link abaixo para visualizar o site hospedado pelo GitHub Pages:
 
-👉 [Visite a Landing Page](https://dorime0102.github.io/SearchPlus/)
+👉 [Visite a Landing Page](https://itallolugon.github.io/SearchPlus/)
 
 ## 📝 Sobre
 
