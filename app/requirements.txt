@@ -1,0 +1,1 @@
+PyQt6==6.6.1\ngoogle-cloud-vision==3.4.1\ngoogle-auth==2.28.1\nPillow==10.1.0\npyinstaller==6.1.0
