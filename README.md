@@ -52,6 +52,7 @@ A Inteligência Artificial entende a descrição, analisa o conteúdo dos arquiv
 - **Itallo Lugon**
 - **João Miguel**
 - **Lorenzo Osorio**
+- **Kevin Kuznier**
 
 ---
 
